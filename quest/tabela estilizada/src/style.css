@@ -1,0 +1,24 @@
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+}
+
+.lista {
+    background-color: #424250;
+}
+.titulo-casa, .titulo-moda {
+    padding: 13px 0px 13px;
+}
+.produtos-moda{
+    color: white;
+    padding: 5px;
+}
+
+.produtos-casa{
+    color: white;
+    padding: 5px;
+}
